@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rechardkasana
+- 👋 Hi, I’m @Richardkasana
 - 👀 I’m interested in learning various programming languages
 - 🌱 I’m currently learning c,c+, c++, java, HTML, Css and Python
 - 💞️ I’m looking to collaborate with anyone who is willing to learn
