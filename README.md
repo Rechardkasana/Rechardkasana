@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richardkasana
-- 👀 I’m interested in learning various programming languages
-- 🌱 I’m currently learning c,c+, c++, java, HTML, Css and Python
-- 💞️ I’m looking to collaborate with anyone who is willing to learn
+- 👀 I’m interested in learning Data Science
+- 🌱 I’m currently learning Python Programming, Machine Learning, Deep Learning, etc.
+- 💞️ I’m looking to collaborate with anyone willing to learn
 - 📫 You can reach me via my email rechardkasana2018@gmailcom
 
 <!---
